@@ -1,2 +1,2 @@
 # datasciencecoursera
-This repo contains the coursera data scientist specialization codes.
+This repo contains the coursera data science specialization codes.
